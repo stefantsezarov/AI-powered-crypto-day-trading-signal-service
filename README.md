@@ -18,6 +18,13 @@ This is an AI-powered platform that helps crypto day traders identify, structure
 > ⚡ Built for fast, smart, and informed trading decisions — with zero noise.
 
 ---
+# 🚀 AI-Powered Crypto Day Trading Signal Service
+
+![CI Status](https://github.com/stefantsezarov/AI-powered-crypto-day-trading-signal-service/actions/workflows/ci.yml/badge.svg)
+
+This is an AI-powered platform that helps crypto day traders identify...
+
+![CI Status](https://github.com/stefantsezarov/AI-powered-crypto-day-trading-signal-service/actions/workflows/ci.yml/badge.svg)
 
 ## 🧠 Overview
 
