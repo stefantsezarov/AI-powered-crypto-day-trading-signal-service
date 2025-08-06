@@ -230,5 +230,3 @@ Feel free to fork, modify, and deploy your own version.
 
 > Built by Mr. Tsezarov, for traders — with AI superpowers.
  
-Let me know if you'd like a logo, architecture diagram, or CI workflow next!
-```
