@@ -1,4 +1,3 @@
-Absolutely! Below is a full `README.md` tailored for your project — clean, informative, and ready to copy-paste into your repo. It includes:
 
 * Description
 * Features
